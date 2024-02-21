@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Messenger"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Drag-installer"
+	}
+}

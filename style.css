@@ -1,0 +1,120 @@
+.main{
+    margin-left: 8%;
+    font-family: Calibre, Helvetica Neue, Segoe UI, Helvetica, Arial, Lucida Grande, sans-serif;
+   
+
+}
+.menu{ 
+    font-family: Calibre, Helvetica Neue, Segoe UI, Helvetica, Arial, Lucida Grande, sans-serif;
+
+    padding-top: 2%;
+    margin-bottom: 3%;
+    text-decoration: none;
+}
+._9h0x ._6b6b {
+    background: linear-gradient(81.84deg, #0099ff -9.4%, #a033ff 51.57%, #ff5280 84.07%, #ff7061 90.59%);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 3%;
+    font-weight:10%;
+    letter-spacing: -2px;
+    line-height: 100%;
+    padding: 0 0 0px;
+   
+
+    font-family: Calibre, Helvetica Neue, Segoe UI, Helvetica, Arial, Lucida Grande, sans-serif;
+}
+.logo{
+    width: 150%;
+    border-radius: 10px;
+    margin-left: 40%;
+}
+.logo2{
+    width: 15%px;
+    border-radius: 10px;    
+    margin-left: 120px;
+    
+} 
+.menuleft{
+    width:5%;
+    border-radius: 10px;
+    display: inline-block;
+
+}
+.left{
+
+    display: inline-block;
+    font-size:140%;
+    background: linear-gradient(81.84deg, #0099ff -9.4%, #a033ff 51.57%, #ff52ab 84.07%, #ff61da 90.59%);
+    -webkit-background-clip: text;
+    color: transparent;    
+
+}
+.img{ 
+    width: 200px;
+    height: 250px;
+    margin-left: 40%;
+}
+.right{
+    display: inline-block;
+    
+    
+}
+
+.menutext{
+    background: linear-gradient(81.84deg, #0099ff -9.4%, #a033ff 51.57%, #ff5280 84.07%, #ff7061 90.59%);
+    -webkit-background-clip:text ;
+    color: transparent;
+    font-size: 80px;
+    font-weight: 600;
+    line-height: 79px;
+    padding: 0 0 16px;   
+    display: inline-block;
+    margin-left: 170px;
+ 
+
+}
+.btn.type_1 {
+    background: #0079FF;
+    color: #e9edf1;
+    border:solid;
+    border-radius: 10px;
+    border-color: #0079FF;
+    font-size: 132%;
+    text-decoration: none;
+    padding-bottom: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
+    margin-left: 4%;
+}
+.menutext1{
+    margin-left: 2%;
+    text-decoration: none;
+    font-size: 120%;
+    color: initial;
+}
+.menutext2{
+    margin-left: 2%;
+    text-decoration: none;
+    font-size: 120%;
+    color: initial;
+}
+.link{
+    margin-left: 5%;
+    font-size: 110%;
+    color: #0079FF;
+    display: inline-block;
+
+}
+.bottomtext{
+    background: linear-gradient(81.84deg, #0099ff 24.45%, #a033ff 40.35%, #ff5280 85.326%, #ff7061 55%);
+    -webkit-background-clip:text ;
+    color: transparent;
+    font-size: 120%;
+    display: inline-block   ;
+
+}
+.bottomtext1{
+    display: inline-block;
+    margin-left: 80%;
+}
