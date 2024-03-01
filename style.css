@@ -52,7 +52,7 @@
 }
 .img{ 
     width: 200px;
-    height:10%;
+    height: 10%;
     margin-left: 40%;
 }
 .right{
@@ -88,15 +88,15 @@
     margin-left: 4%;
 }
 .menutext1{
-    margin-left: 2%;
+    margin-left: 1%;
     text-decoration: none;
-    font-size: 120%;
+    font-size: 100%;
     color: initial;
 }
 .menutext2{
-    margin-left: 2%;
+    margin-left: 1%;
     text-decoration: none;
-    font-size: 120%;
+    font-size: 100%;
     color: initial;
 }
 .link{
@@ -107,14 +107,33 @@
 
 }
 .bottomtext{
+    margin-top: 2%;
     background: linear-gradient(81.84deg, #0099ff 24.45%, #a033ff 40.35%, #ff5280 85.326%, #ff7061 55%);
     -webkit-background-clip:text ;
     color: transparent;
-    font-size: 120%;
+    font-size: 100%;
     display: inline-block   ;
 
 }
 .bottomtext1{
     display: inline-block;
     margin-left: 80%;
+}
+.applogo{
+    width: 2.5%;
+    height: 2.5%;
+    display: inline-block;
+}
+.btn2{
+    margin-left:4%;
+    background: #0079FF;
+    color: #f3f7fa;
+    border:none ;
+    border-radius: 10px;
+    border-color: #0079FF;
+    font-size: 132%;
+    text-decoration: none;
+    padding-bottom: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
 }
