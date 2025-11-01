@@ -48,13 +48,13 @@
     background: linear-gradient(81.84deg, #0099ff -9.4%, #a033ff 51.57%, #ff52ab 84.07%, #ff61da 90.59%);
     -webkit-background-clip: text;
     color: transparent; 
-    margin-left: 120px;
+    margin-left: 180px;
 
 }
 .img{ 
-    width: 300px;
-    height: 20%;
-    margin-left: 20%;
+    width: 200px;
+    height: 13%;
+    margin-left: 4%;
 }
 .right{
     display: inline-block;
