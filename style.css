@@ -47,13 +47,14 @@
     font-size:140%;
     background: linear-gradient(81.84deg, #0099ff -9.4%, #a033ff 51.57%, #ff52ab 84.07%, #ff61da 90.59%);
     -webkit-background-clip: text;
-    color: transparent;    
+    color: transparent; 
+    margin-left: 120px;
 
 }
 .img{ 
-    width: 400px;
+    width: 300px;
     height: 20%;
-    margin-left: 40%;
+    margin-left: 20%;
 }
 .right{
     display: inline-block;
