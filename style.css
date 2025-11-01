@@ -7,8 +7,8 @@
 .menu{ 
     font-family: Calibre, Helvetica Neue, Segoe UI, Helvetica, Arial, Lucida Grande, sans-serif;
 
-    padding-top: 5%;
-    margin-bottom: 2%;
+    padding-top: 0%;
+    margin-bottom: 0%;
     text-decoration: none;
 }
 ._9h0x ._6b6b {
@@ -28,19 +28,19 @@
     width: 150px;
     height: 00%;
     border-radius:15px;
-    margin-left:5%;
+    margin-left:0%;
 }
 .logo2{
     width: 15%px;
     border-radius: 10px;    
-    margin-left: 10px;
+    margin-left: 0px;
     
 } 
 .menuleft{
     width:15%;
     border-radius: 10px;
     display: inline-block;
-
+    margin-left: 0px;
 }
 .left{
 
@@ -49,13 +49,13 @@
     background: linear-gradient(81.84deg, #0099ff -9.4%, #a033ff 51.57%, #ff52ab 84.07%, #ff61da 90.59%);
     -webkit-background-clip: text;
     color: transparent; 
-    margin-left: 180px;
+    margin-left: 0px;
 
 }
 .img{ 
     width: 300px;
     height: 20%;
-    margin-left: 10%;
+    margin-left: 0%;
 }
 .right{
     display: inline-block;
@@ -72,8 +72,8 @@
     line-height: 79px;
     padding: 0 0 16px;   
     display: inline-block;
-    margin-left: 50px;
- 
+    margin-left: 0px;
+        mergun-bottom: 250px; 
 
 }
 .btn.type_1 {
@@ -90,11 +90,11 @@
     margin-left: 170px;
 }
 .menutext1{
-    margin-left: 1%;
+    margin-left: 0%;
     text-decoration: none;
     font-size: 100%;
     color: initial;
-    mergun-bottom: 50px;
+    mergun-bottom: 250px;
 }
 .menutext2{
     margin-left: 1%;
