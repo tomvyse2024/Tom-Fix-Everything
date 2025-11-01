@@ -1,5 +1,5 @@
 .main{
-    margin-left: 8%;
+    margin-left: 6%;
     font-family: Calibre, Helvetica Neue, Segoe UI, Helvetica, Arial, Lucida Grande, sans-serif;
    
 
@@ -7,8 +7,8 @@
 .menu{ 
     font-family: Calibre, Helvetica Neue, Segoe UI, Helvetica, Arial, Lucida Grande, sans-serif;
 
-    padding-top: 2%;
-    margin-bottom: 3%;
+    padding-top: 5%;
+    margin-bottom: 2%;
     text-decoration: none;
 }
 ._9h0x ._6b6b {
@@ -25,14 +25,15 @@
     font-family: Calibre, Helvetica Neue, Segoe UI, Helvetica, Arial, Lucida Grande, sans-serif;
 }
 .logo{
-    width: 15%;
+    width: 150px;
+    height: 00%;
     border-radius:15px;
-    margin-left: 50%;
+    margin-left:5%;
 }
 .logo2{
     width: 15%px;
     border-radius: 10px;    
-    margin-left: 120px;
+    margin-left: 10px;
     
 } 
 .menuleft{
