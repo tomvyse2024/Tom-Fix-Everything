@@ -49,7 +49,7 @@
     background: linear-gradient(81.84deg, #0099ff -9.4%, #a033ff 51.57%, #ff52ab 84.07%, #ff61da 90.59%);
     -webkit-background-clip: text;
     color: transparent; 
-    margin-left: 7%;
+    margin-left: 15%;
 
 }
 .img{ 
@@ -59,6 +59,7 @@
 }
 .right{
     display: inline-block;
+     margin-left: 3%;
     
     
 }
