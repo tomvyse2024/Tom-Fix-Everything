@@ -73,8 +73,8 @@
     line-height: 79px;
     padding: 0 0 16px;   
     display: inline-block;
-    margin-left: 120px;
-        mergun-bottom: 250px; 
+    margin-left: 80px;
+        mergun-bottom: 0px; 
 
 }
 .btn.type_1 {
@@ -91,7 +91,7 @@
     margin-left: 30%;
 }
 .menutext1{
-    margin-left:0%;
+    margin-left:3%;
     text-decoration: none;
     font-size: 100%;
     color: initial;
