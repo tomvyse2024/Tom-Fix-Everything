@@ -37,12 +37,13 @@
     
 } 
 .menuleft{
-    width:18%;
+     width: 200px;
+    height: 20%;
     border-radius: 10px;
     display: inline-block;
     margin-left: 5%;
     transform: rotate(45deg);
-    margin-top: 5%;
+    margin-top: 2%;
 
 }
 .left{
