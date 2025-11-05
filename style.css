@@ -41,6 +41,7 @@
     border-radius: 10px;
     display: inline-block;
     margin-left: 5%;
+    transform: rotate(45deg);
 }
 .left{
 
