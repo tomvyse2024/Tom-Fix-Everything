@@ -1,5 +1,5 @@
 .main{
-    margin-left: 2%;
+    margin-left: 0%;
     font-family: Calibre, Helvetica Neue, Segoe UI, Helvetica, Arial, Lucida Grande, sans-serif;
    
 
@@ -41,7 +41,7 @@
     height: 20%;
     border-radius: 10px;
     display: inline-block;
-    margin-left: 5%;
+    margin-left: 0%;
     transform: rotate(45deg);
 
 }
@@ -52,7 +52,7 @@
     background: linear-gradient(81.84deg, #0099ff -9.4%, #a033ff 51.57%, #ff52ab 84.07%, #ff61da 90.59%);
     -webkit-background-clip: text;
     color: transparent; 
-    margin-left: 5%;
+    margin-left: 0%;
 
 }
 .img{ 
